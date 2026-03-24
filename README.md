@@ -11,6 +11,8 @@ We organize this collection into two families:
 
 > **Note**: This is a preliminary collection and is by no means exhaustive. Many important papers and tools are likely missing. If you know of work that should be included, please open a PR or issue. Contributions of all kinds are welcome!
 
+We also wrote a short report discussing the development and architecture of these systems: [report (PDF)](short_report.pdf).
+
 Contributions welcome! Please open a PR.
 
 ---
