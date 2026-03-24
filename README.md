@@ -148,32 +148,6 @@ Contributions welcome! Please open a PR.
 
 ---
 
-## Taxonomy
-
-```
-Computer-Use Agents
-├── Terminal / CLI-Based
-│   ├── Code Completion: Copilot, Codeium
-│   ├── Chat Assistants: ChatGPT, Cursor Chat, Aider
-│   ├── Autonomous Coding Agents
-│   │   ├── Research: SWE-Agent, OpenHands, AutoCodeRover
-│   │   ├── Products: Devin, Claude Code, Codex CLI, Gemini CLI
-│   │   └── IDE-Integrated: Cursor Agent, Windsurf
-│   ├── General Agents: Manus, LLM-in-Sandbox
-│   └── Personal AI Assistants: OpenClaw
-└── GUI-Based
-    ├── Web Agents
-    │   ├── Research: Mind2Web, SeeAct, WebArena
-    │   └── Products: Browser Use, Operator, Mariner
-    ├── Desktop / OS Agents
-    │   ├── Pixel-based: Computer Use, CogAgent
-    │   ├── Structure-based: UFO
-    │   └── Hybrid: OmniParser, UI-TARS, UI-TARS-2
-    └── Mobile Agents: Mobile-Agent
-```
-
----
-
 ## Contributing
 
 PRs welcome! When adding an entry, please include:
@@ -186,9 +160,11 @@ PRs welcome! When adding an entry, please include:
 
 ## Citation
 
+If you find this list helpful, please give it a ⭐!
+
 ```bibtex
 @misc{cheng2026awesomecomputeruseagents,
-  title={Awesome Computer-Use Agents: A Curated List of Papers, Tools, and Benchmarks},
+  title={Awesome Computer-Use Agents},
   author={Cheng, Daixuan},
   year={2026},
   howpublished={\url{https://github.com/cdxeve/awesome-computer-use-agents}},
