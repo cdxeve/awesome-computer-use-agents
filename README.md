@@ -1,4 +1,4 @@
-# 🖥️ Computer-Use Agents
+# 🖥️ Computer-Use Agents: An Overview of Terminal-Based and GUI-Based Approaches
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -11,7 +11,7 @@ We organize this collection into two families:
 
 > **Note**: This is a preliminary collection and is by no means exhaustive. Many important papers and tools are likely missing. If you know of work that should be included, please open a PR or issue. Contributions of all kinds are welcome!
 
-We also wrote a short report discussing the development and architecture of these systems: [report (PDF)](short_report.pdf).
+We also wrote a short report discussing the development and architecture of these systems: [report (PDF)](computer_use_agent_overview.pdf).
 
 Contributions welcome! Please open a PR.
 
@@ -62,6 +62,8 @@ Contributions welcome! Please open a PR.
 | **SWE-Agent** | 2024 | Paper + Code | [Paper](https://arxiv.org/abs/2405.15793) · [GitHub](https://github.com/princeton-nlp/SWE-agent) |
 | **OpenHands** (OpenDevin) | 2024 | Paper + Code | [Paper](https://arxiv.org/abs/2407.16741) · [GitHub](https://github.com/All-Hands-AI/OpenHands) |
 | **AutoCodeRover** | 2024 | Paper + Code | [Paper](https://arxiv.org/abs/2404.05427) · [GitHub](https://github.com/nus-apr/auto-code-rover) |
+| **Agentless** | 2024 | Paper + Code | [Paper](https://arxiv.org/abs/2407.01489) · [GitHub](https://github.com/OpenAutoCoder/Agentless) |
+| **CodeAct** | 2024 | Paper + Code | [Paper](https://arxiv.org/abs/2402.01030) |
 
 #### Product Agents
 
@@ -83,7 +85,9 @@ Contributions welcome! Please open a PR.
 
 | Name | Year | Type | Links |
 |------|------|------|-------|
+| **Open Interpreter** | 2023 | Open Source | [Website](https://www.openinterpreter.com) · [GitHub](https://github.com/OpenInterpreter/open-interpreter) |
 | **Manus** | 2025 | Product | [Website](https://manus.im) |
+| **Agent SDK** (Anthropic) | 2025 | Product | [Docs](https://platform.claude.com/docs/en/agent-sdk/overview) |
 | **LLM-in-Sandbox** | 2026 | Paper + Code | [Paper](https://arxiv.org/abs/2601.16206) · [GitHub](https://github.com/llm-in-sandbox/llm-in-sandbox) |
 
 ### Personal AI Assistants
@@ -102,6 +106,7 @@ Contributions welcome! Please open a PR.
 |------|------|------|-------|
 | **Mind2Web** | 2023 | Paper + Data | [Paper](https://arxiv.org/abs/2306.06070) · [GitHub](https://github.com/OSU-NLP-Group/Mind2Web) |
 | **SeeAct** | 2024 | Paper + Code | [Paper](https://arxiv.org/abs/2401.01614) · [GitHub](https://github.com/OSU-NLP-Group/SeeAct) |
+| **WebVoyager** | 2024 | Paper + Code | [Paper](https://arxiv.org/abs/2401.13919) |
 | **WebArena** | 2023 | Benchmark + Paper | [Paper](https://arxiv.org/abs/2307.13854) · [GitHub](https://github.com/web-arena-x/webarena) |
 | **Browser Use** | 2025 | Open Source | [GitHub](https://github.com/browser-use/browser-use) |
 | **Operator** (OpenAI) | 2025 | Product | [Blog](https://openai.com/index/introducing-operator) |
@@ -113,8 +118,11 @@ Contributions welcome! Please open a PR.
 |------|------|------|-------|
 | **Computer Use** (Anthropic) | 2024 | API | [Blog](https://www.anthropic.com/news/developing-computer-use) |
 | **CogAgent** | 2024 | Paper + Code | [Paper](https://arxiv.org/abs/2312.08914) · [GitHub](https://github.com/THUDM/CogAgent) |
+| **ScreenAgent** | 2024 | Paper | [Paper](https://arxiv.org/abs/2402.07945) |
 | **UFO** (Microsoft) | 2024 | Paper + Code | [Paper](https://arxiv.org/abs/2402.07939) · [GitHub](https://github.com/microsoft/UFO) |
+| **Set-of-Mark (SoM)** | 2023 | Paper | [Paper](https://arxiv.org/abs/2310.11441) |
 | **OmniParser** | 2024 | Paper + Code | [Paper](https://arxiv.org/abs/2408.00203) · [GitHub](https://github.com/microsoft/OmniParser) |
+| **OS-Copilot** | 2024 | Paper + Code | [Paper](https://arxiv.org/abs/2402.07456) |
 | **UI-TARS** (ByteDance) | 2025 | Paper | [Paper](https://arxiv.org/abs/2501.12326) |
 | **UI-TARS-2** | 2025 | Paper | [Paper](https://arxiv.org/abs/2509.02544) |
 
@@ -122,6 +130,7 @@ Contributions welcome! Please open a PR.
 
 | Name | Year | Type | Links |
 |------|------|------|-------|
+| **AppAgent** | 2024 | Paper + Code | [Paper](https://arxiv.org/abs/2312.13771) |
 | **Mobile-Agent-v3** | 2025 | Paper + Code | [Paper](https://arxiv.org/abs/2508.15144) |
 
 ---
@@ -130,9 +139,14 @@ Contributions welcome! Please open a PR.
 
 | Name | Domain | Year | Links |
 |------|--------|------|-------|
+| **GAIA** | General AI assistant | 2023 | [Paper](https://arxiv.org/abs/2311.12983) |
 | **SWE-bench** | Coding (Python) | 2024 | [Paper](https://arxiv.org/abs/2310.06770) · [Website](https://www.swebench.com) |
 | **WebArena** | Web browsing | 2023 | [Paper](https://arxiv.org/abs/2307.13854) · [Website](https://webarena.dev) |
+| **VisualWebArena** | Visual web tasks | 2024 | [Paper](https://arxiv.org/abs/2401.13649) |
 | **OSWorld** | Desktop OS | 2024 | [Paper](https://arxiv.org/abs/2404.07972) · [GitHub](https://github.com/xlang-ai/OSWorld) |
+| **AndroidWorld** | Mobile (Android) | 2024 | [Paper](https://arxiv.org/abs/2405.14573) |
+| **TheAgentCompany** | Multi-tool (company sim) | 2024 | [Paper](https://arxiv.org/abs/2412.14161) · [Website](https://the-agent-company.com/) |
+| **Terminal-Bench** | CLI tasks (diverse) | 2026 | [Paper](https://arxiv.org/abs/2601.11868) · [Website](https://www.tbench.ai/) |
 
 ---
 
@@ -141,6 +155,7 @@ Contributions welcome! Please open a PR.
 | Name | Year | Links |
 |------|------|-------|
 | **ReAct**: Synergizing Reasoning and Acting in Language Models | 2023 | [Paper](https://arxiv.org/abs/2210.03629) |
+| **Toolformer**: Language Models Can Teach Themselves to Use Tools | 2023 | [Paper](https://arxiv.org/abs/2302.04761) |
 | **Codex**: Evaluating Large Language Models Trained on Code | 2021 | [Paper](https://arxiv.org/abs/2107.03374) |
 | **GPT-4** Technical Report | 2023 | [Paper](https://arxiv.org/abs/2303.08774) |
 | **Plan-and-Solve** Prompting | 2023 | [Paper](https://arxiv.org/abs/2305.04091) |
