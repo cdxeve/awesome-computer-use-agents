@@ -1,6 +1,7 @@
 # 🖥️ Computer-Use Agents: An Overview of Terminal-Based and GUI-Based Approaches
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Report](https://img.shields.io/badge/Report-PDF-blue)](computer_use_agent_overview.pdf)
 
 A curated list of papers, tools, and benchmarks on **computer-use agents**: systems that let LLMs operate computers through terminals or graphical interfaces.
 
@@ -11,7 +12,7 @@ We organize this collection into two families:
 
 > **Note**: This is a preliminary collection and is by no means exhaustive. Many important papers and tools are likely missing. If you know of work that should be included, please open a PR or issue. Contributions of all kinds are welcome!
 
-We also wrote a short report discussing the development and architecture of these systems: [report (PDF)](computer_use_agent_overview.pdf).
+**We also wrote a short report discussing the development and architecture of these systems: [report (PDF)](computer_use_agent_overview.pdf).**
 
 Contributions welcome! Please open a PR.
 
