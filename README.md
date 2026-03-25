@@ -31,7 +31,6 @@ Contributions welcome! Please open a PR.
   - [Mobile Agents](#mobile-agents)
 - [Benchmarks](#benchmarks)
 - [Foundational Work](#foundational-work)
-- [Taxonomy](#taxonomy)
 
 ---
 
