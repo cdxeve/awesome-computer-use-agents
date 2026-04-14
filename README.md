@@ -117,6 +117,7 @@ Contributions welcome! Please open a PR.
 | Name | Year | Type | Links |
 |------|------|------|-------|
 | **Computer Use** (Anthropic) | 2024 | API | [Blog](https://www.anthropic.com/news/developing-computer-use) |
+| **axcli** | 2026 | Open Source | [GitHub](https://github.com/andelf/axcli) |
 | **CogAgent** | 2024 | Paper + Code | [Paper](https://arxiv.org/abs/2312.08914) · [GitHub](https://github.com/THUDM/CogAgent) |
 | **ScreenAgent** | 2024 | Paper | [Paper](https://arxiv.org/abs/2402.07945) |
 | **UFO** (Microsoft) | 2024 | Paper + Code | [Paper](https://arxiv.org/abs/2402.07939) · [GitHub](https://github.com/microsoft/UFO) |
