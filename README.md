@@ -109,16 +109,15 @@ Contributions welcome! Please open a PR.
 | **WebVoyager** | 2024 | Paper + Code | [Paper](https://arxiv.org/abs/2401.13919) |
 | **WebArena** | 2023 | Benchmark + Paper | [Paper](https://arxiv.org/abs/2307.13854) · [GitHub](https://github.com/web-arena-x/webarena) |
 | **Browser Use** | 2025 | Open Source | [GitHub](https://github.com/browser-use/browser-use) |
-| **BrowserTrace** | 2026 | Open Source Tool | [GitHub](https://github.com/aaronlab/browsertrace) |
 | **Operator** (OpenAI) | 2025 | Product | [Blog](https://openai.com/index/introducing-operator) |
 | **Project Mariner** (Google) | 2025 | Product | [Blog](https://deepmind.google/models/project-mariner/) |
+| **BrowserTrace** | 2026 | Open Source Tool | [GitHub](https://github.com/aaronlab/browsertrace) |
 
 ### Desktop / OS Agents
 
 | Name | Year | Type | Links |
 |------|------|------|-------|
 | **Computer Use** (Anthropic) | 2024 | API | [Blog](https://www.anthropic.com/news/developing-computer-use) |
-| **axcli** | 2026 | Open Source | [GitHub](https://github.com/andelf/axcli) |
 | **CogAgent** | 2024 | Paper + Code | [Paper](https://arxiv.org/abs/2312.08914) · [GitHub](https://github.com/THUDM/CogAgent) |
 | **ScreenAgent** | 2024 | Paper | [Paper](https://arxiv.org/abs/2402.07945) |
 | **UFO** (Microsoft) | 2024 | Paper + Code | [Paper](https://arxiv.org/abs/2402.07939) · [GitHub](https://github.com/microsoft/UFO) |
@@ -127,6 +126,7 @@ Contributions welcome! Please open a PR.
 | **OS-Copilot** | 2024 | Paper + Code | [Paper](https://arxiv.org/abs/2402.07456) |
 | **UI-TARS** (ByteDance) | 2025 | Paper | [Paper](https://arxiv.org/abs/2501.12326) |
 | **UI-TARS-2** | 2025 | Paper | [Paper](https://arxiv.org/abs/2509.02544) |
+| **axcli** | 2026 | Open Source | [GitHub](https://github.com/andelf/axcli) |
 
 ### Mobile Agents
 
