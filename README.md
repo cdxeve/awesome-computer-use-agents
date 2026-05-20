@@ -108,6 +108,7 @@ Contributions welcome! Please open a PR.
 | **SeeAct** | 2024 | Paper + Code | [Paper](https://arxiv.org/abs/2401.01614) · [GitHub](https://github.com/OSU-NLP-Group/SeeAct) |
 | **WebVoyager** | 2024 | Paper + Code | [Paper](https://arxiv.org/abs/2401.13919) |
 | **WebArena** | 2023 | Benchmark + Paper | [Paper](https://arxiv.org/abs/2307.13854) · [GitHub](https://github.com/web-arena-x/webarena) |
+| **ClawBench** | 2026 | Benchmark + Paper | [Paper](https://arxiv.org/abs/2604.08523) · [GitHub](https://github.com/reacher-z/ClawBench) · [Live](https://claw-bench.com) |
 | **Browser Use** | 2025 | Open Source | [GitHub](https://github.com/browser-use/browser-use) |
 | **Operator** (OpenAI) | 2025 | Product | [Blog](https://openai.com/index/introducing-operator) |
 | **Project Mariner** (Google) | 2025 | Product | [Blog](https://deepmind.google/models/project-mariner/) |
