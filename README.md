@@ -112,7 +112,7 @@ Contributions welcome! Please open a PR.
 | **Operator** (OpenAI) | 2025 | Product | [Blog](https://openai.com/index/introducing-operator) |
 | **Project Mariner** (Google) | 2025 | Product | [Blog](https://deepmind.google/models/project-mariner/) |
 | **BrowserTrace** | 2026 | Open Source Tool | [GitHub](https://github.com/aaronlab/browsertrace) |
-| **ClawBench** | 2026 | Benchmark + Paper | [Paper](https://arxiv.org/abs/2604.08523) · [GitHub](https://github.com/reacher-z/ClawBench) · [Live](https://claw-bench.com) |
+| **ClawBench** | 2026 | Benchmark + Paper | [Paper](https://arxiv.org/abs/2604.08523) · [GitHub](https://github.com/TIGER-AI-Lab/ClawBench) · [Live](https://claw-bench.com) |
 
 ### Desktop / OS Agents
 
