@@ -41,6 +41,8 @@ Contributions welcome! Please open a PR.
 
 | Name | Year | Type | Links |
 |------|------|------|-------|
+| Clickyy | 2026 | Desktop Agent | [GitHub](https://github.com/jayamitkatariya/clickyyy) |
+|------|------|------|-------|
 | **Codex** | 2021 | Model | [Paper](https://arxiv.org/abs/2107.03374) |
 | **GitHub Copilot** | 2021 | Product | [Website](https://github.com/features/copilot) |
 | **Codeium** | 2022 | Product | [Website](https://codeium.com) |
