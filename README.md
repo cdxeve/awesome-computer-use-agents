@@ -74,6 +74,7 @@ Contributions welcome! Please open a PR.
 | **Claude Code** | 2025 | Product | [Docs](https://docs.anthropic.com/en/docs/claude-code) |
 | **Codex CLI** | 2025 | Product | [GitHub](https://github.com/openai/codex) |
 | **Gemini CLI** | 2025 | Product | [GitHub](https://github.com/google-gemini/gemini-cli) |
+| **YYLO** | 2026 | Open Source | [GitHub](https://github.com/yylo-dev/yylo) · [Website](https://www.npmjs.com/package/@yylo/cli) |
 
 #### IDE-Integrated
 
