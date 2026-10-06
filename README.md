@@ -130,6 +130,7 @@ Contributions welcome! Please open a PR.
 | **UI-TARS** (ByteDance) | 2025 | Paper | [Paper](https://arxiv.org/abs/2501.12326) |
 | **UI-TARS-2** | 2025 | Paper | [Paper](https://arxiv.org/abs/2509.02544) |
 | **axcli** | 2026 | Open Source | [GitHub](https://github.com/andelf/axcli) |
+| **POK-Agent** | 2026 | Open Source | [GitHub](https://github.com/Acekorneya/POK-Agent) |
 
 ### Mobile Agents
 
