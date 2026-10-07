@@ -90,6 +90,7 @@ Contributions welcome! Please open a PR.
 | **Manus** | 2025 | Product | [Website](https://manus.im) |
 | **Agent SDK** (Anthropic) | 2025 | Product | [Docs](https://platform.claude.com/docs/en/agent-sdk/overview) |
 | **LLM-in-Sandbox** | 2026 | Paper + Code | [Paper](https://arxiv.org/abs/2601.16206) · [GitHub](https://github.com/llm-in-sandbox/llm-in-sandbox) |
+| **TODO for AI** | 2025 | Open Source | [Website](https://todofor.ai) · [GitHub](https://github.com/todoforai/edge) |
 
 ### Personal AI Assistants
 
