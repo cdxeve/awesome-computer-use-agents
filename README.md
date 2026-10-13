@@ -137,6 +137,7 @@ Contributions welcome! Please open a PR.
 |------|------|------|-------|
 | **AppAgent** | 2024 | Paper + Code | [Paper](https://arxiv.org/abs/2312.13771) |
 | **Mobile-Agent-v3** | 2025 | Paper + Code | [Paper](https://arxiv.org/abs/2508.15144) |
+| **[ESP32 iPhone Agent](https://github.com/onehumanbeing/esp32-iphone-agent)** | 2026 | Code | [GitHub](https://github.com/onehumanbeing/esp32-iphone-agent) |
 
 ---
 
