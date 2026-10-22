@@ -110,6 +110,7 @@ Contributions welcome! Please open a PR.
 | **WebVoyager** | 2024 | Paper + Code | [Paper](https://arxiv.org/abs/2401.13919) |
 | **WebArena** | 2023 | Benchmark + Paper | [Paper](https://arxiv.org/abs/2307.13854) · [GitHub](https://github.com/web-arena-x/webarena) |
 | **Browser Use** | 2025 | Open Source | [GitHub](https://github.com/browser-use/browser-use) |
+| **Open-CUAK** (Aident AI) | 2025 | Open Source | [GitHub](https://github.com/Aident-AI/open-cuak) · [Website](https://aident.ai) |
 | **Operator** (OpenAI) | 2025 | Product | [Blog](https://openai.com/index/introducing-operator) |
 | **Project Mariner** (Google) | 2025 | Product | [Blog](https://deepmind.google/models/project-mariner/) |
 | **BrowserTrace** | 2026 | Open Source Tool | [GitHub](https://github.com/aaronlab/browsertrace) |
