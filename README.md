@@ -148,6 +148,7 @@ Contributions welcome! Please open a PR.
 | **SWE-bench** | Coding (Python) | 2024 | [Paper](https://arxiv.org/abs/2310.06770) · [Website](https://www.swebench.com) |
 | **WebArena** | Web browsing | 2023 | [Paper](https://arxiv.org/abs/2307.13854) · [Website](https://webarena.dev) |
 | **VisualWebArena** | Visual web tasks | 2024 | [Paper](https://arxiv.org/abs/2401.13649) |
+| **Next-Gen CAPTCHAs** | Interactive CAPTCHA benchmark for web GUI agents | 2026 | [Paper](https://arxiv.org/abs/2602.09012) · [GitHub](https://github.com/MetaAgentX/NextGen-CAPTCHAs) · [Project page](https://jiachengliu12345.github.io/NextGen-CAPTCHAs_webpage/) |
 | **OSWorld** | Desktop OS | 2024 | [Paper](https://arxiv.org/abs/2404.07972) · [GitHub](https://github.com/xlang-ai/OSWorld) |
 | **AndroidWorld** | Mobile (Android) | 2024 | [Paper](https://arxiv.org/abs/2405.14573) |
 | **TheAgentCompany** | Multi-tool (company sim) | 2024 | [Paper](https://arxiv.org/abs/2412.14161) · [Website](https://the-agent-company.com/) |
