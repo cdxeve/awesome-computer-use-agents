@@ -96,6 +96,7 @@ Contributions welcome! Please open a PR.
 | Name | Year | Type | Links |
 |------|------|------|-------|
 | **OpenClaw** | 2025 | Open Source | [GitHub](https://github.com/openclaw/openclaw) · [Website](https://openclaw.ai) |
+| **AnyModelBot** | 2026 | Open Source | [GitHub](https://github.com/modelflare-ai/AnyModelBot) · [Website](https://anymodel.bot/) |
 
 ---
 
