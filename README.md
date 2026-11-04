@@ -152,6 +152,7 @@ Contributions welcome! Please open a PR.
 | **AndroidWorld** | Mobile (Android) | 2024 | [Paper](https://arxiv.org/abs/2405.14573) |
 | **TheAgentCompany** | Multi-tool (company sim) | 2024 | [Paper](https://arxiv.org/abs/2412.14161) · [Website](https://the-agent-company.com/) |
 | **Terminal-Bench** | CLI tasks (diverse) | 2026 | [Paper](https://arxiv.org/abs/2601.11868) · [Website](https://www.tbench.ai/) |
+| **EC²-Bench (EC2-Bench)** | Edge–cloud collaborative agents (digital workspace) | 2026 | [Paper](https://arxiv.org/abs/2610.17816) · [GitHub](https://github.com/OpenBMB/EC2-Bench) · [Website](https://passionate11.github.io/ec2-bench-project-page/) |
 
 ---
 
