@@ -115,6 +115,7 @@ Contributions welcome! Please open a PR.
 | **BrowserTrace** | 2026 | Open Source Tool | [GitHub](https://github.com/aaronlab/browsertrace) |
 | **Agent QA** | 2026 | Self-Improving QA Agent | [GitHub](https://github.com/vostride/agent-qa) |
 | **ClawBench** | 2026 | Benchmark + Paper | [Paper](https://arxiv.org/abs/2604.08523) · [GitHub](https://github.com/TIGER-AI-Lab/ClawBench) · [Live](https://claw-bench.com) |
+| **WebsiteBench** | 2026 | Open Source Benchmark | [GitHub](https://github.com/TIGER-AI-Lab/WebsiteBench) · [Website](https://website-bench.com/) |
 
 ### Desktop / OS Agents
 
